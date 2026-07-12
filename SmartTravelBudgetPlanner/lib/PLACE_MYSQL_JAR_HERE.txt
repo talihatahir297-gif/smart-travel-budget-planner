@@ -1,0 +1,1 @@
+Put mysql-connector-j-8.3.0.jar in this folder
